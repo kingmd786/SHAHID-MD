@@ -1,4 +1,4 @@
-//➤➤➤➤➤➤➤➤PATHAN BOT➤➤➤➤➤➤➤
+//➤➤➤➤➤➤➤➤SHAHID KING-MD➤➤➤➤➤➤➤
 
 
 require('./settings')
@@ -72,10 +72,10 @@ const store = {
     }
 }
 
-let phoneNumber = "923461575994"
+let phoneNumber = "923423706291"
 let owner = JSON.parse(fs.readFileSync('./data/owner.json'))
 
-global.botname = "PATHAN BOT"
+global.botname = "SHAHID KING-MD"
 global.themeemoji = "•"
 
 const settings = require('./settings')
@@ -146,8 +146,8 @@ async function startconn() {
                             forwardingScore: 1,
                             isForwarded: false,
                             forwardedNewsletterMessageInfo: {
-                                newsletterJid: '120363419191446996@newsletter',
-                                newsletterName: 'PATHAN BOT',
+                                newsletterJid: '120363420842499241@newsletter',
+                                newsletterName: 'SHSHID KING-MD',
                                 serverMessageId: -1
                             }
                         }
@@ -224,7 +224,7 @@ async function startconn() {
     code = code?.match(/.{1,4}/g)?.join("-") || code
 
     console.log(chalk.cyan(`\n╔════════════════════════════════════╗`))
-    console.log(chalk.cyan(`║        🤖 PATHAN BOT PAIRING MODE       ║`))
+    console.log(chalk.cyan(`║        🤖 SHAHID KING-MD PAIRING MODE       ║`))
     console.log(chalk.cyan(`╚════════════════════════════════════╝`))
     console.log(chalk.greenBright(`\n🔐 Your Pairing Code:`), chalk.black.bgGreen(` ${code} `))
     console.log(chalk.yellow(`\n📲 Follow these steps:`))
@@ -253,25 +253,25 @@ async function startconn() {
                 text: 
                   `
 ┏❐═⭔ *CONNECTED* ⭔═❐
-┃⭔ BOT: KING BOT🇦🇫
+┃⭔ BOT: SHAHID KING-MD👑 
 ┃⭔ Time: ${new Date().toLocaleString()}
 ┃⭔ Status:Online
 ┃⭔ OWNER:${owner}
 ┗❐═⭔════════⭔═❐
-╭─〔 *🤖 PATHAN BOT* 〕  
+╭─〔 *🤖 SHAHID KING-MD* 〕  
 ├─▸ *Ultra Super Fast Powerfull ⚠️*  
-│     *World Best BOT PATHAN-MD* 
+│     *World Best BOT SHAHID KING-MD* 
 ╰─➤ *Your Smart WhatsApp Bot is Ready To use 🍁!*  
 
-- *🖤 Thank You for Choosing PATHAN-MD!* 
+- *🖤 Thank You for Choosing SHAHID KING-MD!* 
 
 ╭──〔 🔗 *Information* 〕  
 ├─ 🧩 *Prefix:* = .
 ├─ 📢 *Join Channel:*  
-│    https://chat.whatsapp.com/JvIe71GfSU9IYDBO8YRsDu?mode=ac_t  
-├─ 🌟 *GitHub:*  
-│    https://github.com/Shafiullah90/Shafi-king-bot  
-╰─🚀 *Powered by ShafiTechX*        
+│     https://whatsapp.com/channel/0029Vb6GQ0sH5JM5NiaEaS22 
+├─ 🌟 *WhatsApp support:*  
+│  https://chat.whatsapp.com/IrMpBRZA5dYBUGRXy6Avqn?mode=ems_copy_c    
+╰─🚀 *Powered by SHAHID KING*        
 `,
                 contextInfo: {
                     forwardingScore: 1,
@@ -287,11 +287,11 @@ async function startconn() {
             await delay(1999)
             console.log(chalk.yellow(`\n\n    ${chalk.bold.blue(`[ ${global.botname || 'PATHAN BOT'} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-            console.log(chalk.magenta(`\n${global.themeemoji || '•'} YT CHANNEL: PATHANHACKS OFFICIAL`))
-            console.log(chalk.magenta(`${global.themeemoji || '•'} GITHUB: Shafiullah90`))
+            console.log(chalk.magenta(`\n${global.themeemoji || '•'} YT CHANNEL: SHAHIDHACKS OFFICIAL`))
+            console.log(chalk.magenta(`${global.themeemoji || '•'} GITHUB: kingmd874`))
             console.log(chalk.magenta(`${global.themeemoji || '•'} WA NUMBER: ${owner}`))
-            console.log(chalk.magenta(`${global.themeemoji || '•'} CREDIT: PATHAN HACKS TEAM`))
-            console.log(chalk.green(`${global.themeemoji || '•'} 🤖 PATHAN BOT Connected Successfully! ✅`))
+            console.log(chalk.magenta(`${global.themeemoji || '•'} CREDIT: SHAHID HACKS TEAM`))
+            console.log(chalk.green(`${global.themeemoji || '•'} 🤖 SHAHID KING-MD Connected Successfully! ✅`))
             console.log(chalk.cyan(`< ================================================== >`))
         }
         if (
