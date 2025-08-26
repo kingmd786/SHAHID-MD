@@ -1,12 +1,12 @@
 const settings = {
-  packname: '✨PATHAN-BOT✨',
-  author: '👑 Shafi PATHAN🇦🇫',
+  packname: '✨ SHAHID KING-MD✨',
+  author: '👑 Shahid king',
   botName: '🤖 PATHAN BOT',
-  botOwner: 'Shafi PATHAN🇦🇫', // Your name here u can change 
-  ownerNumber: '93703802176', // Set your number here without + symbol.
+  botOwner: 'Shahid king', // Your name here u can change 
+  ownerNumber: '923423706291', // Set your number here without + symbol.
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: 'public', // can be 'public' or 'private'
-  description: '💬 A powerful fun WhatsApp MD bot built with ❤️ by pathan power.',
+  description: '💬 A powerful fun WhatsApp MD bot built with ❤️ by king power.',
   version: '2.0.0',
 };
 
