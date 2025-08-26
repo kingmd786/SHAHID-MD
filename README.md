@@ -11,9 +11,9 @@ this is a SHAHID KING-MD and it's easy to deploy just follow step by step
 
 First 👇👇👇👇clcik All link
 
-*✅ Fork the Repository (A MUST): [CLICK HERE](https://github.com/Shafiullah90/Shafi-king-bot/forks)*  
-*⭐ Star the Repo for Motivation: [CLICK HERE](https://github.com/Shafiullah90/Shafi-king-bot/stargazers)*  
-*💾 Download Bot ZIP File: [CLICK HERE](https://github.com/Shafiullah90/Shafi-king-bot/archive/refs/heads/main.zip)*
+*✅ Fork the Repository (A MUST): [CLICK HERE](https://github.com/kingmd786/SHAHID-MD)*  
+*⭐ Star the Repo for Motivation: [CLICK HERE](https://github.com/kingmd786/SHAHID-MD-bot/stargazers)*  
+*💾 Download Bot ZIP File: [CLICK HERE](https://github.com/kingmd786/SHAHID-MD/archive/refs/heads/main.zip)*
 
 
 
@@ -84,7 +84,7 @@ Created with passion by **SHAHID KING**, it’s built on the robust Baileys libr
 Click the button below to fork PATHAN-BOT repository to your GitHub account.
 
 <p align="left">
-  <a href="https://github.com/Shafiullah90/Shafi-king-bot/forks">
+  <a href="https://github.com/kingmd786/SHAHID-MD">
     <img src="https://img.shields.io/github/forks/Shafiullah90/king-bot?style=for-the-badge&logo=github&logoColor=white&label=Forks&color=darkgreen" alt="Forks"/>
   </a>
 </p>
@@ -162,7 +162,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
     <img title="WhatsApp Contact" src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Contact" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://t.me/Shafikhanbe" target="_blank" rel="noopener noreferrer">
+  <a href="https://t.me/+8ScPM6_F151hYjk0" target="_blank" rel="noopener noreferrer">
     <img title="Telegram Contact" src="https://img.shields.io/badge/Telegram-%230068FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact" />
   </a>
   &nbsp;&nbsp;
