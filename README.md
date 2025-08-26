@@ -166,7 +166,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
     <img title="Telegram Contact" src="https://img.shields.io/badge/Telegram-%230068FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/Shafikhanicfu" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.facebook.com/share/1BCnbkwG75/" target="_blank" rel="noopener noreferrer">
     <img title="Facebook Profile" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile" />
   </a>
 </p>
@@ -176,7 +176,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
     <img title="WhatsApp group" src="https://img.shields.io/badge/WhatsApp_Channel-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp group" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://chat.whatsapp.com/JvIe71GfSU9IYDBO8YRsDu?mode=ac_t" target="_blank" rel="noopener noreferrer">
+  <a href="https://whatsapp.com/channel/0029Vb6GQ0sH5JM5NiaEaS22?mode=ems_copy_c" target="_blank" rel="noopener noreferrer">
     <img title="Bot Support Group" src="https://img.shields.io/badge/Bot_Support_Group-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Bot Support Group" />
   </a>
 </p>
