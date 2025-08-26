@@ -102,7 +102,7 @@ No extra steps, no hassle. Just easy setup. 😄
 💾 3. Download Bot Zip
 
 <p align="left">
-  <a href="https://github.com/Pp9697724/Shafi-king-bot/archive/refs/heads/main.zip">
+  <a href="https://github.com/kingmd786/SHAHID-MD/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/Download-Zip-blueviolet?style=for-the-badge&logo=github" alt="Download ZIP"/>
   </a>
 </p>
@@ -158,7 +158,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 </div>
 
 <p align="center">
-  <a href="https://wa.me/93703802176" target="_blank" rel="noopener noreferrer">
+  <a href="https://wa.me/923423706291" target="_blank" rel="noopener noreferrer">
     <img title="WhatsApp Contact" src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Contact" />
   </a>
   &nbsp;&nbsp;
