@@ -1,4 +1,4 @@
-# 🤖✨ PATHAN-BOT
+# 🤖✨ SHAHID KING-MD 
 
 </div> 
 <div align="center"> 
@@ -7,7 +7,7 @@
   </a> 
 </div>
 
-this is a PATHAN-MD BOT and it's easy to deploy just follow step by step 
+this is a SHAHID KING-MD and it's easy to deploy just follow step by step 
 
 First 👇👇👇👇clcik All link
 
@@ -70,8 +70,8 @@ It’s that simple. No coding skills needed — just follow the steps and enjoy 
   <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=1000&color=32cd32,ff6347,1e90ff&center=true&width=400&height=40&lines=What+is+king-bot%3F" alt="What is king-bot?" />
 </div>
 
-PATHAN-BOT is a **powerful, multi-device WhatsApp bot** packed with **400+ fun and utility commands**, designed to make your WhatsApp groups more entertaining and easier to manage.  
-Created with passion by **Shafi pathan**, it’s built on the robust Baileys library for reliable, lightning-fast WhatsApp automation.
+SHAHID KING-MD is a **powerful, multi-device WhatsApp bot** packed with **400+ fun and utility commands**, designed to make your WhatsApp groups more entertaining and easier to manage.  
+Created with passion by **SHAHID KING**, it’s built on the robust Baileys library for reliable, lightning-fast WhatsApp automation.
 
 ---
 
@@ -195,9 +195,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=🤖+king+bot+by+Shafu+pathan;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=🤖+king+bot+by+SHAHID+King;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation" />
 </h3>
 
 ---
 
-<p align="center">Made with ❤️ by Shafi Khan — Star the repo if you like it!</p>
+<p align="center">Made with ❤️ by Shahid King — Star the repo if you like it!</p>
